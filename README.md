@@ -1,4 +1,3 @@
-# gustipermanaputra
 <!--[![MasterHead](https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.webp)](https://gustipermanap.io)-->
 <h1 align="center">Hi 👋, I'm Gusti Permana Putra</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia, Jakarta</h3>
