@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Django, Python, Mysql, Sqlite3, Laravel, PHP, Html,CSS, Flutter, IOT, Micropython, Raspberry, Arduino**
 
-- 👯 I’m looking to collaborate on **Hepi - Helm Pintar**
+- 👯 I am the Creator of Hepi - Smart Helmet **Hepi - Helm Pintar**  
 
 - 👨‍💻 All of my projects are available at [https://github.com/gustipermanap](https://github.com/gustipermanap)
 
